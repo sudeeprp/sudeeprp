@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sudeeprp
+- 👀 I’m interested in the journey of predictability in software development.
+- 🌱 I’m currently learning nodejs and serverless deployments
+- 💞️ I’m looking to collaborate on Ramanuja's commentary on the Gita. [Here's the translation](https://github.com/RaPaLearning/gita-begin). There are many interpretations in there. It would be great to have discussions and critiques on them.
+- 📫 Mail me on sudeep@rapalearning.com
